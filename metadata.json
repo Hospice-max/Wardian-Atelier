@@ -1,0 +1,8 @@
+{
+  "name": "Wardian Atelier",
+  "description": "An interactive 3D Wardian glass terrarium featuring procedural botanical flora, dynamic 24-hour day/night lighting, and atmospheric weather simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
